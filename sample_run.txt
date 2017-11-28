@@ -1,0 +1,148 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: C:\Users\ngalla3683\computer-programming-1\hangman\hangman.py ===
+                               _________             ______   
+_______ _________ _______      ______  /_____ __________  /_  
+__  __ `__ \  __ `/_  __ \     _  __  /_  __ `/_  ___/_  __ \ 
+_  / / / / / /_/ /_  / / /     / /_/ / / /_/ /_(__  )_  / / / 
+/_/ /_/ /_/\__,_/ /_/ /_/      \__,_/  \__,_/ /____/ /_/ /_/  
+                                                              
+
+You are running in a race
+Everytime you think of the wrong letter letter in your head, you accidentally trip
+You can only trip 6 times before you lose the race
+***in the interest of being family friendly, 
+no runners were hurt in the making of this game***
+
+Please type your name: abel
+--- -----
+Guess a letter: k
+k-- -----
+
+abel's strikes: 0
+abel's guesses: (k)
+
+
+Guess a letter: i
+ki- -----
+
+abel's strikes: 0
+abel's guesses: (k,i)
+
+
+Guess a letter: d
+kid -----
+
+abel's strikes: 0
+abel's guesses: (k,i,d)
+
+
+Guess a letter: sehtrddhrdtfhgnftbn
+You must type a single letter
+Guess a letter: f
+kid f----
+
+abel's strikes: 0
+abel's guesses: (k,i,d,f)
+
+
+Guess a letter: l
+kid fl---
+
+abel's strikes: 0
+abel's guesses: (k,i,d,f,l)
+
+
+Guess a letter: a
+kid fla--
+
+abel's strikes: 0
+abel's guesses: (k,i,d,f,l,a)
+
+
+Guess a letter: s
+kid flas-
+
+abel's strikes: 0
+abel's guesses: (k,i,d,f,l,a,s)
+
+
+Guess a letter: h
+kid flash
+
+abel's strikes: 0
+abel's guesses: (k,i,d,f,l,a,s,h)
+
+
+You win!
+Would you like to play again? (y/n) n
+
+Thanks for playing, abel
+
+This game was created and tested by Noah on 11/14/17
+
+-----------------------------------------------------------------------------------------------------
+
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: C:\Users\ngalla3683\computer-programming-1\hangman\hangman.py ===
+                               _________             ______   
+_______ _________ _______      ______  /_____ __________  /_  
+__  __ `__ \  __ `/_  __ \     _  __  /_  __ `/_  ___/_  __ \ 
+_  / / / / / /_/ /_  / / /     / /_/ / / /_/ /_(__  )_  / / / 
+/_/ /_/ /_/\__,_/ /_/ /_/      \__,_/  \__,_/ /____/ /_/ /_/  
+                                                              
+
+You are running in a race
+Everytime you think of the wrong letter letter in your head, you accidentally trip
+You can only trip 6 times before you lose the race
+***in the interest of being family friendly, 
+no runners were hurt in the making of this game***
+
+Please type your name: abel
+--- -----
+Guess a letter: y
+--- -----
+
+abel's strikes: 1
+abel's guesses: (y)
+
+
+Guess a letter: y
+--- -----
+
+abel's strikes: 2
+abel's guesses: (y,y)
+
+
+Guess a letter: y
+--- -----
+
+abel's strikes: 3
+abel's guesses: (y,y,y)
+
+
+Guess a letter: y
+--- -----
+
+abel's strikes: 4
+abel's guesses: (y,y,y,y)
+
+
+Guess a letter: y
+--- -----
+
+abel's strikes: 5
+abel's guesses: (y,y,y,y,y)
+
+
+Guess a letter: e
+--- -----
+
+abel's strikes: 6
+abel's guesses: (y,y,y,y,y,e)
+
+
+You lose!
